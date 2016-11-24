@@ -23,7 +23,9 @@ mongoimport --jsonArray -d locatewalmart -c store --type json --file data/walmar
 npm start
 
 http://0.0.0.0:3000
+
 http://0.0.0.0:3000/explorer (api doc)
+
 http://0.0.0.0:3000/locate (map)
 
 Update server/datasources.json with mongodb creds if needed
